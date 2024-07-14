@@ -4,6 +4,6 @@ export default defineAppConfig({
   socials: {
     twitter: 'https://x.com/Xcelsama_',
     github: 'https://github.com/Xcelsama',
-    mastodon: '@atinux@webtoo.ls'
+    linktr.ee: 'https://linktr.ee/xcelsama'
   }
 })
