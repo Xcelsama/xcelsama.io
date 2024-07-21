@@ -4,6 +4,5 @@ export default defineAppConfig({
   socials: {
     twitter: 'Xcelsama_',
     github: 'Xcelsama',
-    linktr.ee: 'xcelsama'
   }
 })
