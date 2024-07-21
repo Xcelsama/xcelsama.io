@@ -4,6 +4,6 @@ export default defineAppConfig({
   socials: {
     twitter: 'Xcelsama_',
     github: 'Xcelsama',
-    Instagram: 'xcel_sama,
+    Instagram:'xcel_sama',
   }
 })
