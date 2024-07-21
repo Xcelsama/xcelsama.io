@@ -1,1 +1,1 @@
-[MAIL](ms.excelamadi@yahoo.com)
+[MAIL: ms.excelamadi@yahoo.com)
