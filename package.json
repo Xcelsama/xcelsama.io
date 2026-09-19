@@ -1,5 +1,7 @@
 {
   "name": "content-wind-template",
+   "engines": {
+    "node": ">=20"
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
