@@ -1,8 +1,9 @@
 {
   "name": "content-wind-template",
-   "engines": {
-    "node": ">=20"
   "private": true,
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
